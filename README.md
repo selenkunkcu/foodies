@@ -6,7 +6,7 @@
 
 ## 🚀 Technologies & Key Learnings
 
-- **App Router**: File-based routing with special files like `page.js`, `layout.js`, `error.js`, `not-found.js`, and `loading.js`.  
+- **App Router**: File-based routing and error handling with special files like `page.js`, `layout.js`, `error.js`, `not-found.js`, and `loading.js`.  
 - **Dynamic Routes**: Creating pages with path segments that are not known in advance.  
 - **Server & Client Components**: Understanding that components are server components by default in Next.js, and converting them to client components with `use client`.  
 - **React Hooks**: Using `useState` and `useRef`.  
@@ -14,3 +14,4 @@
 - **Form Handling**: Managing responses with `useFormState` and submission status with `useFormStatus`.  
 - **Data Revalidation**: Handling Next.js caching with `revalidatePath` to fetch the latest data.  
 - **Metadata**: Managing static and dynamic metadata for page titles and descriptions. 
+
