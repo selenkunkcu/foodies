@@ -15,3 +15,24 @@
 - **Data Revalidation**: Handling Next.js caching with `revalidatePath` to fetch the latest data.  
 - **Metadata**: Managing static and dynamic metadata for page titles and descriptions. 
 
+
+## Quick Start:
+Follow these steps..
+
+1.Clone this repository to your local machine:
+```
+  git clone https://github.com/selenkunkcu/foodies.git
+  cd foodies
+```
+
+2. Install dependencies using npm or yarn:
+```
+npm install
+```
+
+4. Start the development server:
+```
+npm run dev
+```
+
+6. Open your web browser and navigate to http://localhost:3000 to view the Foodies Blog.
