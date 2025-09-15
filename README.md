@@ -35,5 +35,6 @@ npm install
 npm run dev
 ```
 
-6. Open your web browser and navigate to http://localhost:3000 to view and share with Foodies :)
+6. Open your web browser and navigate to http://localhost:3000 to view&share recepies with Foodies :)
+
 
